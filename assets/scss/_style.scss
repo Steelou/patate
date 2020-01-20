@@ -1,0 +1,18 @@
+body {
+    background-color: $fond;
+}
+
+h1 {
+    font-size: 30px;
+    @include aligementcentre;
+    color: $nom
+}
+h2 {
+    @include aligementcentre;
+    color: $nom
+}
+h3 {
+    font-size: 40px;
+    @include aligementcentre;
+    color: $nom
+}
