@@ -1,0 +1,10 @@
+{
+    "liveSassCompile.settings.formats" : [  
+        // Vous pouvez ajouter plus 
+        { 
+            "format" : "compressed" , 
+            "extensionName" : ".min.css" , 
+            "savePath" : "/ assets / css" 
+        }
+    ]
+}
